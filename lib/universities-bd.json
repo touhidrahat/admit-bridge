@@ -1,0 +1,754 @@
+[
+  {
+    "name": "American International University - Bangladesh",
+    "aliases": "aiub.edu AIUB"
+  },
+  {
+    "name": "Asa University Bangladesh",
+    "aliases": "asaub.edu.bd ASAUB"
+  },
+  {
+    "name": "Atish Dipankar University",
+    "aliases": "atishdipankaruniversity.edu.bd"
+  },
+  {
+    "name": "Asian University of Bangladesh",
+    "aliases": "aub-bd.org AUB"
+  },
+  {
+    "name": "Ahsanullah University of Science & Technology",
+    "aliases": "aust.edu AUST"
+  },
+  {
+    "name": "Bangladesh Agricultural University",
+    "aliases": "bau.edu.bd BAU"
+  },
+  {
+    "name": "BGC Trust University, Bangladesh",
+    "aliases": "bgctrustbd.org BGCTUB"
+  },
+  {
+    "name": "Bangladesh Open University",
+    "aliases": "bou.edu.bd BOU"
+  },
+  {
+    "name": "Brac University",
+    "aliases": "bracu.ac.bd BracU"
+  },
+  {
+    "name": "Begum Rokeya University, Rangpur",
+    "aliases": "brur.ac.bd"
+  },
+  {
+    "name": "Bangabandhu Sheikh Mujibur Rahman Medical University",
+    "aliases": "bsmmu.edu.bd"
+  },
+  {
+    "name": "Bangabandhu Sheikh Mujibur Rahman Agricultural University",
+    "aliases": "bsmrau.edu.bd"
+  },
+  {
+    "name": "Bangladesh University of Business & Technology",
+    "aliases": "bubt.edu.bd BUBT"
+  },
+  {
+    "name": "Bangladesh University",
+    "aliases": "bu.edu.bd BU"
+  },
+  {
+    "name": "Bangladesh University of Engineering and Technology",
+    "aliases": "buet.ac.bd BUET"
+  },
+  {
+    "name": "Bangladesh University of Professionals",
+    "aliases": "bup.edu.bd BUP"
+  },
+  {
+    "name": "Bangladesh University of Textiles",
+    "aliases": "butex.edu.bd BUTEX"
+  },
+  {
+    "name": "City University",
+    "aliases": "cityuniversity.edu.bd"
+  },
+  {
+    "name": "Comilla University",
+    "aliases": "cou.ac.bd CoU"
+  },
+  {
+    "name": "University of Chittagong",
+    "aliases": "cu.ac.bd CU"
+  },
+  {
+    "name": "Chittagong University of Engineering and Technology",
+    "aliases": "cuet.ac.bd CUET"
+  },
+  {
+    "name": "Daffodil International University",
+    "aliases": "daffodilvarsity.edu.bd diu.edu.bd DIU"
+  },
+  {
+    "name": "Darul Ihsan University",
+    "aliases": "diu.ac.bd"
+  },
+  {
+    "name": "Dhaka International University",
+    "aliases": "diu.net.bd DIU"
+  },
+  {
+    "name": "University of Dhaka",
+    "aliases": "du.ac.bd DU"
+  },
+  {
+    "name": "Dhaka University of Engineering and Technology",
+    "aliases": "duet.ac.bd DUET"
+  },
+  {
+    "name": "East Delta University",
+    "aliases": "eastdelta.edu.bd EDU"
+  },
+  {
+    "name": "Eastern University",
+    "aliases": "easternuni.edu.bd"
+  },
+  {
+    "name": "East West University",
+    "aliases": "ewubd.edu EWU"
+  },
+  {
+    "name": "Green University of Bangladesh",
+    "aliases": "green.edu.bd GUB"
+  },
+  {
+    "name": "Hajee Mohammad Danesh Science and Technology University",
+    "aliases": "hstu.ac.bd HSTU"
+  },
+  {
+    "name": "IBAIS University",
+    "aliases": "ibaisuniv.edu.bd IU"
+  },
+  {
+    "name": "International Culture University",
+    "aliases": "icu-edu.org"
+  },
+  {
+    "name": "International Islamic University Chittagong",
+    "aliases": "iiuc.ac.bd IIUC"
+  },
+  {
+    "name": "Islamic University Kushtia",
+    "aliases": "iu.ac.bd"
+  },
+  {
+    "name": "International University of Business Agriculture and Technology",
+    "aliases": "iubat.edu IUBAT"
+  },
+  {
+    "name": "Independent University, Bangladesh",
+    "aliases": "iub.edu.bd IUB"
+  },
+  {
+    "name": "Islamic University of Technology",
+    "aliases": "iutoic-dhaka.edu IUT"
+  },
+  {
+    "name": "Jatiya Kabi Kazi Nazrul Islam University",
+    "aliases": "jkkniu.edu.bd JKKNIU"
+  },
+  {
+    "name": "Jagannath University",
+    "aliases": "jnu.ac.bd JnU"
+  },
+  {
+    "name": "Jahangirnagar University",
+    "aliases": "juniv.edu JU"
+  },
+  {
+    "name": "Khulna University",
+    "aliases": "ku.ac.bd KU"
+  },
+  {
+    "name": "Khulna University of Engineering And Technology",
+    "aliases": "kuet.ac.bd KUET"
+  },
+  {
+    "name": "Leading University",
+    "aliases": "lus.ac.bd LU"
+  },
+  {
+    "name": "Manarat International University",
+    "aliases": "manarat.ac.bd MIU"
+  },
+  {
+    "name": "Mawlana Bhashani Science And Technology University",
+    "aliases": "mbstu.ac.bd MBSTU"
+  },
+  {
+    "name": "Metropolitan University",
+    "aliases": "metrouni.edu.bd MU"
+  },
+  {
+    "name": "Military Institute of Science and Technology",
+    "aliases": "mist.ac.bd MIST"
+  },
+  {
+    "name": "North East University Bangladesh",
+    "aliases": "neub.edu.bd NEUB"
+  },
+  {
+    "name": "North South University",
+    "aliases": "northsouth.edu NSU"
+  },
+  {
+    "name": "Noakhali Science and Technology University",
+    "aliases": "nstu.edu.bd NSTU"
+  },
+  {
+    "name": "Northern University Bangladesh",
+    "aliases": "nub.ac.bd NUB"
+  },
+  {
+    "name": "National University",
+    "aliases": "nu.edu.bd"
+  },
+  {
+    "name": "Presidency University",
+    "aliases": "presidency.edu.bd PU"
+  },
+  {
+    "name": "Patuakhali Science and Technology University",
+    "aliases": "pstu.ac.bd PSTU"
+  },
+  {
+    "name": "People's University of Bangladesh",
+    "aliases": "pub.ac.bd PUB"
+  },
+  {
+    "name": "Premier University",
+    "aliases": "puc.ac.bd"
+  },
+  {
+    "name": "Pabna University of Science and Technology",
+    "aliases": "pust.ac.bd PUST"
+  },
+  {
+    "name": "Queens University",
+    "aliases": "queensuniversity.edu.bd QU"
+  },
+  {
+    "name": "University of Rajshahi",
+    "aliases": "ru.ac.bd RU"
+  },
+  {
+    "name": "Rajshahi University of Engineering and Technology",
+    "aliases": "ruet.ac.bd RUET"
+  },
+  {
+    "name": "Sylhet Agricultural University",
+    "aliases": "sau.ac.bd SAU"
+  },
+  {
+    "name": "Sylhet Engineering College",
+    "aliases": "sec.ac.bd"
+  },
+  {
+    "name": "Southeast University",
+    "aliases": "seu.ac.bd SEU"
+  },
+  {
+    "name": "Sylhet International University",
+    "aliases": "siu.edu.bd SIU"
+  },
+  {
+    "name": "Southern University Bangladesh",
+    "aliases": "southern.edu.bd SUB"
+  },
+  {
+    "name": "Stamford University",
+    "aliases": "stamforduniversity.edu.bd"
+  },
+  {
+    "name": "Shahjalal University of Science and Technology",
+    "aliases": "sust.edu SUST"
+  },
+  {
+    "name": "University of Asia Pacific, Dhanmondi",
+    "aliases": "uap-bd.edu"
+  },
+  {
+    "name": "University of Information Technology & Sciences",
+    "aliases": "uits.edu.bd UITS"
+  },
+  {
+    "name": "United International University",
+    "aliases": "uiu.ac.bd UIU"
+  },
+  {
+    "name": "University of Liberal Arts",
+    "aliases": "ulab.edu.bd"
+  },
+  {
+    "name": "University of Development Alternative",
+    "aliases": "uoda.edu.bd UODA"
+  },
+  {
+    "name": "University of Science & Technology Chittagong",
+    "aliases": "ustc.ac.bd USTC"
+  },
+  {
+    "name": "World University of Bangladesh",
+    "aliases": "wub.edu WUB"
+  },
+  {
+    "name": "Gazipur Agricultural University",
+    "aliases": "gau.edu.bd GAU"
+  },
+  {
+    "name": "Bangladesh Maritime University",
+    "aliases": "bmu.edu.bd BMU"
+  },
+  {
+    "name": "Rangamati Science and Technology University",
+    "aliases": "rmstu.portal.gov.bd RmSTU"
+  },
+  {
+    "name": "Kishoreganj University",
+    "aliases": "kiu.ac.bd KgU"
+  },
+  {
+    "name": "Khulna Agricultural University",
+    "aliases": "kau.ac.bd KAU"
+  },
+  {
+    "name": "Islamic Arabic University",
+    "aliases": "iau.edu.bd IAU"
+  },
+  {
+    "name": "Chittagong Medical University",
+    "aliases": "cmu.edu.bd CMU"
+  },
+  {
+    "name": "Netrokona University",
+    "aliases": "neu.ac.bd NkU"
+  },
+  {
+    "name": "Islamic University, Bangladesh",
+    "aliases": "IU"
+  },
+  {
+    "name": "Begum Rokeya University",
+    "aliases": "BRUR"
+  },
+  {
+    "name": "University of Barisal",
+    "aliases": "BU"
+  },
+  {
+    "name": "Rabindra University, Bangladesh",
+    "aliases": "RUB"
+  },
+  {
+    "name": "Meherpur University",
+    "aliases": "MU"
+  },
+  {
+    "name": "University of Bogura",
+    "aliases": "UB"
+  },
+  {
+    "name": "Thakurgaon University",
+    "aliases": "TU"
+  },
+  {
+    "name": "Naogaon University",
+    "aliases": "NaU"
+  },
+  {
+    "name": "Jashore University of Science and Technology",
+    "aliases": "JUST"
+  },
+  {
+    "name": "Gopalganj Science and Technology University",
+    "aliases": "GSTU"
+  },
+  {
+    "name": "Jamalpur Science and Technology University",
+    "aliases": "JSTU"
+  },
+  {
+    "name": "Chandpur Science and Technology University",
+    "aliases": "CSTU"
+  },
+  {
+    "name": "Sunamganj Science and Technology University",
+    "aliases": "SSTU"
+  },
+  {
+    "name": "Lakshmipur Science and Technology University",
+    "aliases": "LSTU"
+  },
+  {
+    "name": "Pirojpur Science and Technology University",
+    "aliases": "PrSTU"
+  },
+  {
+    "name": "Satkhira University of Science and Technology",
+    "aliases": "SaUST"
+  },
+  {
+    "name": "Narayanganj Science and Technology University",
+    "aliases": "NGSTU"
+  },
+  {
+    "name": "Sher-e-Bangla Agricultural University",
+    "aliases": "SBAU"
+  },
+  {
+    "name": "Habiganj Agricultural University",
+    "aliases": "HAU"
+  },
+  {
+    "name": "Kurigram Agricultural University",
+    "aliases": "KuriAU"
+  },
+  {
+    "name": "Shariatpur Agriculture University",
+    "aliases": "ShAU"
+  },
+  {
+    "name": "Bangladesh Medical University",
+    "aliases": "BMU"
+  },
+  {
+    "name": "Rajshahi Medical University",
+    "aliases": "RMU"
+  },
+  {
+    "name": "Sylhet Medical University",
+    "aliases": "SMU"
+  },
+  {
+    "name": "Khulna Medical University",
+    "aliases": "KMU"
+  },
+  {
+    "name": "Chittagong Veterinary and Animal Sciences University",
+    "aliases": "CVASU"
+  },
+  {
+    "name": "University of Frontier Technology, Bangladesh",
+    "aliases": "UFTB"
+  },
+  {
+    "name": "Aviation and Aerospace University Bangladesh",
+    "aliases": "AAUB"
+  },
+  {
+    "name": "National University Bangladesh",
+    "aliases": "NU"
+  },
+  {
+    "name": "Dhaka Central University",
+    "aliases": "DCU"
+  },
+  {
+    "name": "Gono Bishwabidyalay",
+    "aliases": "GB"
+  },
+  {
+    "name": "University of Asia Pacific (Bangladesh)",
+    "aliases": "UAP"
+  },
+  {
+    "name": "Chittagong Independent University (CIU)",
+    "aliases": "CIU"
+  },
+  {
+    "name": "Premier University, Chittagong",
+    "aliases": "PU"
+  },
+  {
+    "name": "City University, Bangladesh",
+    "aliases": "CUB"
+  },
+  {
+    "name": "Prime University",
+    "aliases": "PU"
+  },
+  {
+    "name": "Stamford University Bangladesh",
+    "aliases": "SU"
+  },
+  {
+    "name": "State University of Bangladesh",
+    "aliases": "SUB"
+  },
+  {
+    "name": "Eastern University, Bangladesh",
+    "aliases": "EU"
+  },
+  {
+    "name": "Millennium University",
+    "aliases": "MU"
+  },
+  {
+    "name": "Primeasia University",
+    "aliases": "PAU"
+  },
+  {
+    "name": "Royal University of Dhaka",
+    "aliases": "RUD"
+  },
+  {
+    "name": "University of South Asia, Bangladesh",
+    "aliases": "USAB"
+  },
+  {
+    "name": "Uttara University",
+    "aliases": "UU"
+  },
+  {
+    "name": "Victoria University of Bangladesh",
+    "aliases": "VUB"
+  },
+  {
+    "name": "Bangladesh Islami University",
+    "aliases": "BIU"
+  },
+  {
+    "name": "Northern University of Business and Technology Khulna",
+    "aliases": "NUB"
+  },
+  {
+    "name": "Britannia University",
+    "aliases": "BU"
+  },
+  {
+    "name": "Feni University",
+    "aliases": "FU"
+  },
+  {
+    "name": "Khwaja Yunus Ali University",
+    "aliases": "KYAU"
+  },
+  {
+    "name": "European University of Bangladesh",
+    "aliases": "EUB"
+  },
+  {
+    "name": "First Capital University Of Bangladesh",
+    "aliases": "FCUB"
+  },
+  {
+    "name": "BGMEA University of Fashion & Technology",
+    "aliases": "BUFT"
+  },
+  {
+    "name": "Hamdard University Bangladesh",
+    "aliases": "HUB"
+  },
+  {
+    "name": "Ishakha International University",
+    "aliases": "IIUB"
+  },
+  {
+    "name": "North Western University, Bangladesh",
+    "aliases": "NWU"
+  },
+  {
+    "name": "Port City International University",
+    "aliases": "PCIU"
+  },
+  {
+    "name": "Varendra University",
+    "aliases": "VU"
+  },
+  {
+    "name": "Sonargaon University",
+    "aliases": "SU"
+  },
+  {
+    "name": "Cox's Bazar International University",
+    "aliases": "CBIU"
+  },
+  {
+    "name": "Fareast International University",
+    "aliases": "FIU"
+  },
+  {
+    "name": "German University Bangladesh",
+    "aliases": "GUB"
+  },
+  {
+    "name": "North Bengal International University",
+    "aliases": "NBIU"
+  },
+  {
+    "name": "Notre Dame University Bangladesh",
+    "aliases": "NDUB"
+  },
+  {
+    "name": "Ranada Prasad Shaha University",
+    "aliases": "RPSU"
+  },
+  {
+    "name": "Brahmaputra International University",
+    "aliases": "BIU"
+  },
+  {
+    "name": "Times University Bangladesh",
+    "aliases": "TMUB"
+  },
+  {
+    "name": "Canadian University of Bangladesh",
+    "aliases": "CUB"
+  },
+  {
+    "name": "Global University Bangladesh",
+    "aliases": "GUB"
+  },
+  {
+    "name": "NPI University of Bangladesh",
+    "aliases": "NPIUB"
+  },
+  {
+    "name": "Rabindra Maitree University",
+    "aliases": "RMU"
+  },
+  {
+    "name": "University of Scholars",
+    "aliases": "IUS"
+  },
+  {
+    "name": "University of Creative Technology Chittagong",
+    "aliases": "UCTC"
+  },
+  {
+    "name": "Anwer Khan Modern University",
+    "aliases": "AKMU"
+  },
+  {
+    "name": "University of Global Village",
+    "aliases": "UIGV"
+  },
+  {
+    "name": "Khulna Khan Bahadur Ahsanullah University",
+    "aliases": "KKBAU"
+  },
+  {
+    "name": "Trust University, Barishal",
+    "aliases": "TUB"
+  },
+  {
+    "name": "University of Brahmanbaria",
+    "aliases": "UOB"
+  },
+  {
+    "name": "University of Skill Enrichment and Technology",
+    "aliases": "USET"
+  },
+  {
+    "name": "International Standard University",
+    "aliases": "ISU"
+  },
+  {
+    "name": "ZNRF University of Management Sciences",
+    "aliases": "ZUMS"
+  },
+  {
+    "name": "Bandarban University",
+    "aliases": "BdU"
+  },
+  {
+    "name": "RTM Al-Kabir Technical University",
+    "aliases": "RTM-AKTU"
+  },
+  {
+    "name": "International Islami University of Science and Technology Bangladesh",
+    "aliases": "IIUSTB"
+  },
+  {
+    "name": "Microland University of Science and Technology",
+    "aliases": "MUST"
+  },
+  {
+    "name": "Lalon University of Science & Arts",
+    "aliases": "LUSA"
+  },
+  {
+    "name": "Grameen University",
+    "aliases": "GU"
+  },
+  {
+    "name": "Pundra University of Science and Technology",
+    "aliases": "PDUST"
+  },
+  {
+    "name": "Atish Dipankar University of Science and Technology",
+    "aliases": "ADUST"
+  },
+  {
+    "name": "ZH Sikder University of Science & Technology",
+    "aliases": "ZHSUST"
+  },
+  {
+    "name": "Rajshahi Science & Technology University",
+    "aliases": "RSTU"
+  },
+  {
+    "name": "Bangladesh Army International University of Science & Technology",
+    "aliases": "BAIUST"
+  },
+  {
+    "name": "Bangladesh Army University of Science & Technology, Khulna",
+    "aliases": "BAUST, Khulna"
+  },
+  {
+    "name": "Bangladesh Army University of Science and Technology, Saidpur",
+    "aliases": "BAUST, Saidpur"
+  },
+  {
+    "name": "CCN University of Science & Technology",
+    "aliases": "CCNUST"
+  },
+  {
+    "name": "Central University of Science and Technology",
+    "aliases": "CUST"
+  },
+  {
+    "name": "Dr. Momtaz Begum University of Science and Technology",
+    "aliases": "MUST"
+  },
+  {
+    "name": "Central Women's University",
+    "aliases": "CWU"
+  },
+  {
+    "name": "Shanto-Mariam University of Creative Technology",
+    "aliases": "SMUCT"
+  },
+  {
+    "name": "University of Liberal Arts Bangladesh",
+    "aliases": "ULAB"
+  },
+  {
+    "name": "Bangladesh University of Health Sciences",
+    "aliases": "BUHS"
+  },
+  {
+    "name": "Exim Bank Agricultural University Bangladesh",
+    "aliases": "EBAUB"
+  },
+  {
+    "name": "Bangladesh Army University of Engineering & Technology",
+    "aliases": "BAUET"
+  },
+  {
+    "name": "Tagore University of Creative Arts",
+    "aliases": "TUCA"
+  },
+  {
+    "name": "Asian University for Women",
+    "aliases": "AUW"
+  }
+]

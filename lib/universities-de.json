@@ -1,0 +1,2562 @@
+[
+  {
+    "name": "IU Internationale Hochschule GmbH",
+    "aliases": "iubh-fernstudium.de"
+  },
+  {
+    "name": "AKAD Hochschulen für Berufstätige, Fachhochschule Leipzig",
+    "aliases": "akad.de"
+  },
+  {
+    "name": "Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin",
+    "aliases": "asfh-berlin.de"
+  },
+  {
+    "name": "Augustana Hochschule Neuendettelsau",
+    "aliases": "augustana.de"
+  },
+  {
+    "name": "Kirchliche Hochschule Bethel",
+    "aliases": "bethel.de"
+  },
+  {
+    "name": "BiTS - Business and Information Technology School gGmbH",
+    "aliases": "bits-iserlohn.de"
+  },
+  {
+    "name": "Cologne Business School",
+    "aliases": "cbs.de"
+  },
+  {
+    "name": "Charité – Universitätsmedizin Berlin",
+    "aliases": "charite.de"
+  },
+  {
+    "name": "CODE University of Applied Sciences Berlin",
+    "aliases": "code.berlin Berlin"
+  },
+  {
+    "name": "Deutsche Hochschule für Verwaltungswissenschaften Speyer",
+    "aliases": "dhv-speyer.de"
+  },
+  {
+    "name": "DIPLOMA-Fachhochschule Ölsnitz/Vogtland",
+    "aliases": "diploma.de"
+  },
+  {
+    "name": "Deutsche Sporthochschule Köln",
+    "aliases": "dshs-koeln.de"
+  },
+  {
+    "name": "E.A.P. Europäische Wirtschaftshochschule Berlin",
+    "aliases": "eap.net"
+  },
+  {
+    "name": "Europäische Betriebswirtschafts-Akademie",
+    "aliases": "eba-muenchen.de"
+  },
+  {
+    "name": "European Business School Schloß Reichartshausen",
+    "aliases": "ebs.de"
+  },
+  {
+    "name": "European College of Liberal Arts",
+    "aliases": "ecla.de"
+  },
+  {
+    "name": "Evangelische Fachhochschule Rheinland-Westfalen-Lippe",
+    "aliases": "efh-bochum.de"
+  },
+  {
+    "name": "Evangelische Fachhochschule Darmstadt",
+    "aliases": "eh-darmstadt.de"
+  },
+  {
+    "name": "Evangelische Fachhochschule Freiburg, Hochschule für Soziale Arbeit, Diakonie und Religionspädagogik",
+    "aliases": "efh-freiburg.de"
+  },
+  {
+    "name": "Evangelische Fachhochschule Hannover",
+    "aliases": "efh-hannover.de"
+  },
+  {
+    "name": "Evangelische Fachhochschule Ludwigshafen Hochschule für Sozial- und Gesundheitswesen",
+    "aliases": "efhlu.de"
+  },
+  {
+    "name": "Evangelische Fachhochschule Reutlingen-Ludwigsburg, Hochschule für Soziale Arbeit, Religionspädagogik und Diakonie",
+    "aliases": "efh-reutlingen-ludwigsburg.de"
+  },
+  {
+    "name": "Evangelische Hochschule für Soziale Arbeit Dresden (FH)",
+    "aliases": "ehs-dresden.de"
+  },
+  {
+    "name": "European Management School",
+    "aliases": "ems-mainz.de"
+  },
+  {
+    "name": "Europäische Fachhochschule",
+    "aliases": "eufh.de"
+  },
+  {
+    "name": "Europa-Universität Viadrina Frankfurt (Oder)",
+    "aliases": "euv-frankfurt-o.de"
+  },
+  {
+    "name": "Evangelische Fachhochschule Berlin, Fachhochschule für Sozialarbeit und Sozialpädagogik",
+    "aliases": "evfh-berlin.de"
+  },
+  {
+    "name": "Evangelische Fachhochschule Nürnberg",
+    "aliases": "evfh-nuernberg.de"
+  },
+  {
+    "name": "Fern-Fachhochschule Hamburg",
+    "aliases": "fern-fh.de"
+  },
+  {
+    "name": "Fernuniversität Gesamthochschule Hagen",
+    "aliases": "fernuni-hagen.de"
+  },
+  {
+    "name": "Fachhochschule Aachen",
+    "aliases": "fh-aachen.de"
+  },
+  {
+    "name": "Fachhochschule Aschaffenburg",
+    "aliases": "fh-aschaffenburg.de"
+  },
+  {
+    "name": "Technical University of Applied Sciences Augsburg",
+    "aliases": "fh-augsburg.de tha.de Augsburg"
+  },
+  {
+    "name": "Internationale Fachhochschule Bad Honnef",
+    "aliases": "fh-bad-honnef.de"
+  },
+  {
+    "name": "Fachhochschule Biberach, Hochschule für Bauwesen und Wirtschaft",
+    "aliases": "fh-biberach.de"
+  },
+  {
+    "name": "Fachhochschule Bielefeld",
+    "aliases": "fh-bielefeld.de"
+  },
+  {
+    "name": "Fachhochschule Bingen",
+    "aliases": "fh-bingen.de"
+  },
+  {
+    "name": "Fachhochschule Bochum",
+    "aliases": "fh-bochum.de"
+  },
+  {
+    "name": "Hochschule Bonn-Rhein-Sieg",
+    "aliases": "hochschule-bonn-rhein-sieg.de h-brs.de"
+  },
+  {
+    "name": "Fachhochschule Brandenburg",
+    "aliases": "fh-brandenburg.de"
+  },
+  {
+    "name": "Technische Hochschule Brandenburg",
+    "aliases": "th-brandenburg.de"
+  },
+  {
+    "name": "Technische Hochschule Deggendorf",
+    "aliases": "th-deg.de"
+  },
+  {
+    "name": "Fachhochschule Dortmund",
+    "aliases": "fh-dortmund.de"
+  },
+  {
+    "name": "Hochschule Düsseldorf",
+    "aliases": "hs-duesseldorf.de"
+  },
+  {
+    "name": "Fachhochschule für die Wirtschaft",
+    "aliases": "fhdw.bib.de"
+  },
+  {
+    "name": "Fachhochschule der Wirtschaft",
+    "aliases": "fhdw.de"
+  },
+  {
+    "name": "Fachhochschule Eberswalde",
+    "aliases": "fh-eberswalde.de"
+  },
+  {
+    "name": "Fachhochschule Erfurt",
+    "aliases": "fh-erfurt.de"
+  },
+  {
+    "name": "Fachhochschule Flensburg",
+    "aliases": "fh-flensburg.de"
+  },
+  {
+    "name": "Fachhochschule Frankfurt am Main",
+    "aliases": "fh-frankfurt.de"
+  },
+  {
+    "name": "Europa Fachhochschule Fresenius",
+    "aliases": "fh-fresenius.de"
+  },
+  {
+    "name": "Fachhochschule Furtwangen, Hochschule für Technik und Wirtschaft",
+    "aliases": "fh-furtwangen.de"
+  },
+  {
+    "name": "Fachhochschule Gelsenkirchen",
+    "aliases": "fh-gelsenkirchen.de"
+  },
+  {
+    "name": "Fachhochschule Gießen-Friedberg",
+    "aliases": "fh-giessen.de"
+  },
+  {
+    "name": "Fachhochschule Hamburg",
+    "aliases": "fh-hamburg.de"
+  },
+  {
+    "name": "Hamburg University of Applied Sciences (HAW Hamburg)",
+    "aliases": "haw-hamburg.de"
+  },
+  {
+    "name": "Fachhochschule Hannover",
+    "aliases": "fh-hannover.de"
+  },
+  {
+    "name": "Fachhochschule Heidelberg",
+    "aliases": "fh-heidelberg.de"
+  },
+  {
+    "name": "Fachhochschule Heilbronn, Hochschule für Technik und Wirtschaft",
+    "aliases": "fh-heilbronn.de"
+  },
+  {
+    "name": "Fachhochschule Hildesheim/Holzminden/Göttingen, Hochschule für angewandte Wissenschaft und Kunst",
+    "aliases": "fh-hildesheim.de"
+  },
+  {
+    "name": "Fachhochschule Hof",
+    "aliases": "fh-hof.de"
+  },
+  {
+    "name": "Technische Hochschule Ingolstadt",
+    "aliases": "thi.de"
+  },
+  {
+    "name": "Fachhochschule und Berufskollegs NTA, Prof.Dr. Grübler gemein. GmbH",
+    "aliases": "fh-isny.de"
+  },
+  {
+    "name": "Fachhochschule Jena",
+    "aliases": "fh-jena.de"
+  },
+  {
+    "name": "Fachhochschule Karlsruhe, Hochschule für Technik",
+    "aliases": "fh-karlsruhe.de"
+  },
+  {
+    "name": "Fachhochschule Kempten, Hochschule für Technik und Wirtschaft",
+    "aliases": "fh-kempten.de"
+  },
+  {
+    "name": "Fachhochschule Kiel",
+    "aliases": "fh-kiel.de"
+  },
+  {
+    "name": "Fachhochschule Kaiserslautern",
+    "aliases": "fh-kl.de"
+  },
+  {
+    "name": "Fachhochschule Koblenz",
+    "aliases": "fh-koblenz.de"
+  },
+  {
+    "name": "Technische Hochschule Köln",
+    "aliases": "th-koeln.de fh-koeln.de"
+  },
+  {
+    "name": "Fachhochschule Konstanz, Hochschule für Technik, Wirtschaft und Gestaltung",
+    "aliases": "fh-konstanz.de"
+  },
+  {
+    "name": "Staatlich anerkannte Fachhochschule für Kunsttherapie",
+    "aliases": "fhkt.de"
+  },
+  {
+    "name": "Fachhochschule Landshut, Hochschule für Wirtschaft - Sozialwesen - Technik",
+    "aliases": "fh-landshut.de"
+  },
+  {
+    "name": "Fachhochschule Lausitz",
+    "aliases": "fh-lausitz.de"
+  },
+  {
+    "name": "Fachhochschule Lippe",
+    "aliases": "fh-lippe.de"
+  },
+  {
+    "name": "Fachhochschule Ludwigshafen, Hochschule für Wirtschaft",
+    "aliases": "fh-ludwigshafen.de"
+  },
+  {
+    "name": "Fachhochschule Lübeck",
+    "aliases": "fh-luebeck.de"
+  },
+  {
+    "name": "Fachhochschule Mainz",
+    "aliases": "fh-mainz.de"
+  },
+  {
+    "name": "Fachhochschule Mannheim, Hochschule für Technik und Gestaltung",
+    "aliases": "fh-mannheim.de"
+  },
+  {
+    "name": "Fachhochschule Merseburg",
+    "aliases": "fh-merseburg.de"
+  },
+  {
+    "name": "Fachhochschule des Mittelstandes (FHM)",
+    "aliases": "fhm-mittelstand.de"
+  },
+  {
+    "name": "Fachhochschule München",
+    "aliases": "fh-muenchen.de"
+  },
+  {
+    "name": "Hochschule München",
+    "aliases": "hm.edu"
+  },
+  {
+    "name": "Fachhochschule Münster",
+    "aliases": "fh-muenster.de"
+  },
+  {
+    "name": "Fachhochschule Neubrandenburg",
+    "aliases": "fh-nb.de"
+  },
+  {
+    "name": "Hochschule Neu-Ulm, Hochschule Neu-Ulm University of applied sciences",
+    "aliases": "hs-neu-ulm.de"
+  },
+  {
+    "name": "Fachhochschule Niederrhein",
+    "aliases": "fh-niederrhein.de"
+  },
+  {
+    "name": "Fachhochschule Nordostniedersachsen",
+    "aliases": "fhnon.de"
+  },
+  {
+    "name": "Fachhochschule Nordhausen",
+    "aliases": "fh-nordhausen.de"
+  },
+  {
+    "name": "Georg-Simon-Ohm-Fachhochschule Nürnberg",
+    "aliases": "fh-nuernberg.de"
+  },
+  {
+    "name": "Fachhochschule Nürtingen, Hochschule für Wirtschaft, Landwirtschaft und Landespflege",
+    "aliases": "fh-nuertingen.de"
+  },
+  {
+    "name": "Fachhochschule für das öffentliche Bibliothekswesen Bonn",
+    "aliases": "fhoebb.de"
+  },
+  {
+    "name": "Fachhochschule Offenburg, Hochschule für Technik und Wirtschaft",
+    "aliases": "fh-offenburg.de"
+  },
+  {
+    "name": "Fachhochschule Oldenburg/Ostfriesland/Wilhelmshaven",
+    "aliases": "fh-oow.de"
+  },
+  {
+    "name": "Fachhochschule Osnabrück",
+    "aliases": "fh-osnabrueck.de"
+  },
+  {
+    "name": "Freie Kunst-Studienstätte Ottersberg",
+    "aliases": "fh-ottersberg.de"
+  },
+  {
+    "name": "Fachhochschule Pforzheim, Hochschule für Gestaltung, Technik und Wirtschaft",
+    "aliases": "fh-pforzheim.de"
+  },
+  {
+    "name": "Fachhochschule Potsdam",
+    "aliases": "fh-potsdam.de"
+  },
+  {
+    "name": "Fachhochschule Regensburg",
+    "aliases": "fh-regensburg.de"
+  },
+  {
+    "name": "Fachhochschule Reutlingen, Hochschule für Technik und Wirtschaft",
+    "aliases": "fh-reutlingen.de"
+  },
+  {
+    "name": "Deutsch-Ordens Fachhochschule Riedlingen, Hochschule für Wirtschaft",
+    "aliases": "fh-riedlingen.de"
+  },
+  {
+    "name": "Fachhochschule Rosenheim, Hochschule für Technik und Wirtschaft",
+    "aliases": "fh-rosenheim.de"
+  },
+  {
+    "name": "Fachhochschule Rottenburg, Hochschule für Forstwirtschaft",
+    "aliases": "fh-rottenburg.de"
+  },
+  {
+    "name": "Fachhochschule Schmalkalden",
+    "aliases": "fh-schmalkalden.de"
+  },
+  {
+    "name": "Fachhochschule Schwäbisch Hall, Hochschule für Gestaltung",
+    "aliases": "fh-schwaebischhall.de"
+  },
+  {
+    "name": "Fachhochschule Mannheim, Hochschule für Sozialwesen",
+    "aliases": "fhs-mannheim.de"
+  },
+  {
+    "name": "Evangelische Fachhochschule für Religionspädagogik, und Gemeindediakonie Moritzburg",
+    "aliases": "fhs-moritzburg.de"
+  },
+  {
+    "name": "Fachhochschule Stralsund",
+    "aliases": "fh-stralsund.de"
+  },
+  {
+    "name": "Deutsche Telekom Fachhochschule Leipzig",
+    "aliases": "fh-telekom-leipzig.de"
+  },
+  {
+    "name": "Fachhochschule Trier, Hochschule für Technik, Wirtschaft und Gestaltung",
+    "aliases": "fh-trier.de"
+  },
+  {
+    "name": "Fachhochschule Stuttgart, Hochschule für Technik",
+    "aliases": "fht-stuttgart.de"
+  },
+  {
+    "name": "Hochschule für Technik und Wirtschaft Berlin",
+    "aliases": "fhtw-berlin.de htw-berlin.de"
+  },
+  {
+    "name": "Hochschule Ulm, Hochschule für Angewandte Wissenschaft",
+    "aliases": "hs-ulm.de"
+  },
+  {
+    "name": "Fachhochschule für Verwaltung und Rechtspflege Berlin",
+    "aliases": "fhvr.berlin.de"
+  },
+  {
+    "name": "Fachhochschule für Wirtschaft Berlin",
+    "aliases": "fhw-berlin.de"
+  },
+  {
+    "name": "Fachhochschule Wedel",
+    "aliases": "fh-wedel.de"
+  },
+  {
+    "name": "Fachhochschule Weihenstephan",
+    "aliases": "fh-weihenstephan.de"
+  },
+  {
+    "name": "Fachhochschule Ravensburg-Weingarten",
+    "aliases": "fh-weingarten.de"
+  },
+  {
+    "name": "Fachhochschule Westküste, Hochschule für Wirtschaft und Technik",
+    "aliases": "fh-westkueste.de"
+  },
+  {
+    "name": "Fachhochschule Wiesbaden",
+    "aliases": "fh-wiesbaden.de"
+  },
+  {
+    "name": "Ostfalia Hochschule für angewandte Wissenschaften",
+    "aliases": "ostfalia.de fh-wolfenbuettel.de"
+  },
+  {
+    "name": "Fachhochschule Worms",
+    "aliases": "fh-worms.de"
+  },
+  {
+    "name": "Private Fachhochschule für Wirtschaft und Technik Vechta/Diepholz",
+    "aliases": "fhwt.de"
+  },
+  {
+    "name": "Fachhochschule Würzburg - Schweinfurt",
+    "aliases": "fh-wuerzburg.de"
+  },
+  {
+    "name": "Westsächsische Hochschule Zwickau (FH)",
+    "aliases": "fh-zwickau.de"
+  },
+  {
+    "name": "Fachhochschule für Oekonomie und Management (FOM)",
+    "aliases": "fom.de"
+  },
+  {
+    "name": "Freie Universität Berlin",
+    "aliases": "fu-berlin.de"
+  },
+  {
+    "name": "Private Hanseuniversität",
+    "aliases": "hanseuni.de"
+  },
+  {
+    "name": "Hafencity Universität Hamburg",
+    "aliases": "hcu-hamburg.de"
+  },
+  {
+    "name": "Fachhochschule Stuttgart, Hochschule der Medien",
+    "aliases": "hdm-stuttgart.de"
+  },
+  {
+    "name": "Hertie School of Governance",
+    "aliases": "hertie-school.org"
+  },
+  {
+    "name": "Hochschule für Bankwirtschaft (HfB), Private Fachhochschule der Bankakademie",
+    "aliases": "hfb.de"
+  },
+  {
+    "name": "Fachhochschule Schwäbisch Gmünd, Hochschule für Gestaltung",
+    "aliases": "hfg-gmuend.de"
+  },
+  {
+    "name": "Hochschule für Philosophie München",
+    "aliases": "hfph.mwn.de"
+  },
+  {
+    "name": "Hochschule für Politik (HFP)",
+    "aliases": "hfp.mhn.de"
+  },
+  {
+    "name": "Handelshochschule Leipzig",
+    "aliases": "hhl.de"
+  },
+  {
+    "name": "Hochschule für Internationales Management",
+    "aliases": "himh.de"
+  },
+  {
+    "name": "Hochschule für Jüdische Studien Heidelberg",
+    "aliases": "hjs.uni-heidelberg.de"
+  },
+  {
+    "name": "Hochschule Albstadt-Sigmaringen",
+    "aliases": "hs-albsig.de"
+  },
+  {
+    "name": "Hochschule Anhalt (FH), Hochschule für angewandte Wissenschaften",
+    "aliases": "hs-anhalt.de student.hs-anhalt.de"
+  },
+  {
+    "name": "Hochschule Bremen",
+    "aliases": "hs-bremen.de"
+  },
+  {
+    "name": "Hochschule Bremerhaven",
+    "aliases": "hs-bremerhaven.de"
+  },
+  {
+    "name": "Hochschule Coburg",
+    "aliases": "hs-coburg.de"
+  },
+  {
+    "name": "Hochschule Darmstadt",
+    "aliases": "h-da.de"
+  },
+  {
+    "name": "Hochschule Esslingen",
+    "aliases": "hs-esslingen.de"
+  },
+  {
+    "name": "Hochschule Fulda",
+    "aliases": "hs-fulda.de"
+  },
+  {
+    "name": "Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)",
+    "aliases": "hs-harz.de"
+  },
+  {
+    "name": "Hochschule Magdeburg-Stendal (FH)",
+    "aliases": "hs-magdeburg.de"
+  },
+  {
+    "name": "Hochschule Wismar, Fachhochschule für Technik, Wirtschaft und Gestaltung",
+    "aliases": "hs-wismar.de"
+  },
+  {
+    "name": "Hochschule Zittau/Görlitz (FH)",
+    "aliases": "hs-zigr.de"
+  },
+  {
+    "name": "Hochschule für Technik und Wirtschaft Dresden (FH)",
+    "aliases": "htw-dresden.de"
+  },
+  {
+    "name": "Hochschule für Technik, Wirtschaft und Kultur Leipzig (FH)",
+    "aliases": "htwk-leipzig.de"
+  },
+  {
+    "name": "Hochschule Mittweida, University of Applied Sciences",
+    "aliases": "htwm.de hs-mittweida.de campus-m-university.de campusm21.de"
+  },
+  {
+    "name": "Hochschule für Technik und Wirtschaft des Saarlandes",
+    "aliases": "htw-saarland.de"
+  },
+  {
+    "name": "Humboldt Universität Berlin",
+    "aliases": "hu-berlin.de"
+  },
+  {
+    "name": "HWP - Hamburger Universität für Wirtschaft und Politik",
+    "aliases": "hwp-hamburg.de"
+  },
+  {
+    "name": "Internationales Hochschulinstitut Zittau",
+    "aliases": "ihi-zittau.de"
+  },
+  {
+    "name": "Internationale Fachhochschule Aalen",
+    "aliases": "international.fh-aalen.de"
+  },
+  {
+    "name": "International School of Management ISM Dortmund",
+    "aliases": "ism-dortmund.de"
+  },
+  {
+    "name": "International School of New Media, University of Lübeck",
+    "aliases": "isnm.de"
+  },
+  {
+    "name": "International University in Germany",
+    "aliases": "i-u.de"
+  },
+  {
+    "name": "Jacobs University Bremen",
+    "aliases": "jacobs-university.de"
+  },
+  {
+    "name": "Karlshochschule International University",
+    "aliases": "karlshochschule.de Karlsruhe"
+  },
+  {
+    "name": "Katholische Fachhochschule Norddeutschland",
+    "aliases": "kath-fh-nord.de"
+  },
+  {
+    "name": "Katholische Fachhochschule Berlin (KFB)",
+    "aliases": "kfb-berlin.de"
+  },
+  {
+    "name": "Katholische Fachhochschule Freiburg, Hochschule für Sozialwesen, Religionspädagogik und Pflege",
+    "aliases": "kfh-freiburg.de"
+  },
+  {
+    "name": "Katholische Fachhochschule Mainz",
+    "aliases": "kfh-mainz.de"
+  },
+  {
+    "name": "Katholische Fachhochschule Nordrhein-Westfalen",
+    "aliases": "kfhnw.de"
+  },
+  {
+    "name": "Kunsthochschule Berlin-Weissensee, Hochschule für Gestaltung",
+    "aliases": "kh-berlin.de"
+  },
+  {
+    "name": "Katholische Hochschule für Soziale Arbeit Saarbrücken",
+    "aliases": "khsa.de"
+  },
+  {
+    "name": "Katholische Stiftungsfachhochschule München",
+    "aliases": "ksfh.de"
+  },
+  {
+    "name": "Katholische Universität Eichstätt",
+    "aliases": "ku-eichstaett.de"
+  },
+  {
+    "name": "Kunstakademie Düsseldorf.",
+    "aliases": "kunstakademie-duesseldorf.de"
+  },
+  {
+    "name": "Merkur Internationale FH Karlsruhe",
+    "aliases": "merkur-fh.org"
+  },
+  {
+    "name": "Merz Akademie, Hochschule für Gestaltung Stuttgart",
+    "aliases": "merz-akademie.de"
+  },
+  {
+    "name": "Märkische Fachhochschule Iserlohn",
+    "aliases": "mfh-iserlohn.de"
+  },
+  {
+    "name": "Medizinische Hochschule Hannover",
+    "aliases": "mh-hannover.de"
+  },
+  {
+    "name": "Staatliche Hochschule für Musik",
+    "aliases": "mh-trossingen.de"
+  },
+  {
+    "name": "Medizinische Universität Lübeck",
+    "aliases": "mu-luebeck.de"
+  },
+  {
+    "name": "Muthesius-Hochschule, Fachhochschule für Kunst und Gestaltung",
+    "aliases": "muthesius.de"
+  },
+  {
+    "name": "Nordakademie, Staatlich anerkannte private Fachhochschule mit dualen Studiengängen",
+    "aliases": "nordakademie.de"
+  },
+  {
+    "name": "Theologische Fakultät Paderborn",
+    "aliases": "paderborn.de"
+  },
+  {
+    "name": "Private Fachhochschule Göttingen",
+    "aliases": "pfh-goettingen.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Erfurt/Mühlhausen",
+    "aliases": "ph-erfurt.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Freiburg",
+    "aliases": "ph-freiburg.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Schwäbisch Gmünd",
+    "aliases": "ph-gmuend.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Heidelberg",
+    "aliases": "ph-heidelberg.de"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule SVD Sankt Augustin",
+    "aliases": "philtheol-augustin.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Karlsruhe",
+    "aliases": "ph-karlsruhe.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Ludwigsburg",
+    "aliases": "ph-ludwigsburg.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Weingarten",
+    "aliases": "ph-weingarten.de"
+  },
+  {
+    "name": "Popakademie Baden-Württemberg",
+    "aliases": "popakademie.de"
+  },
+  {
+    "name": "Private FernFachhochschule Darmstadt",
+    "aliases": "privatfh-da.de"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule der Salesianer Don Boscos",
+    "aliases": "pth-bb.de"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule Münster",
+    "aliases": "pth-muenster.de"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule Vallendar der Gesellschaft des Katholischen Apostolates (Pallottiner)",
+    "aliases": "pthv.de"
+  },
+  {
+    "name": "Evangelische Fachhochschule für Sozialpädagogik der \"Diakonenanstalt des Rauhen Hauses\" Hamburg",
+    "aliases": "rauheshaus.de"
+  },
+  {
+    "name": "Rheinische Fachhochschule Köln",
+    "aliases": "rfh-koeln.de"
+  },
+  {
+    "name": "Ruhr-Universität Bochum",
+    "aliases": "ruhr-uni-bochum.de"
+  },
+  {
+    "name": "Rheinisch Westfälische Technische Hochschule Aachen",
+    "aliases": "rwth-aachen.de"
+  },
+  {
+    "name": "Lutherische Theologische Hochschule Oberursel",
+    "aliases": "selk.de"
+  },
+  {
+    "name": "Gustav-Siewerth-Akademie",
+    "aliases": "siewerth-akademie.de"
+  },
+  {
+    "name": "Schiller International University, Heidelberg",
+    "aliases": "siu-heidelberg.de"
+  },
+  {
+    "name": "SRH University of Applied Sciences",
+    "aliases": "srh-berlin.de Heidelberg, Riedlingen, Berlin, Dresden, Fürth, Gera, Hamburg, Hamm, Leverkusen"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule Sankt Georgen",
+    "aliases": "st-georgen.uni-frankfurt.de"
+  },
+  {
+    "name": "Steinbeis-Hochschule-Berlin",
+    "aliases": "stw.de"
+  },
+  {
+    "name": "Technische Fachhochschule Berlin",
+    "aliases": "tfh-berlin.de"
+  },
+  {
+    "name": "Technische Fachhochschule Georg Agricola für Rohstoff, Energie und, Umwelt zu Bochum",
+    "aliases": "tfh-bochum.de"
+  },
+  {
+    "name": "Technische Fachhochschule Wildau",
+    "aliases": "tfh-wildau.de"
+  },
+  {
+    "name": "Theologische Hochschule Friedensau",
+    "aliases": "thh-friedensau.de"
+  },
+  {
+    "name": "Tierärztliche Hochschule Hannover",
+    "aliases": "tiho-hannover.de"
+  },
+  {
+    "name": "Technische Universität Berlin",
+    "aliases": "tu-berlin.de"
+  },
+  {
+    "name": "Technische Universität Carolo-Wilhelmina zu Braunschweig",
+    "aliases": "tu-braunschweig.de tu-bs.de"
+  },
+  {
+    "name": "Technische Universität Chemnitz",
+    "aliases": "tu-chemnitz.de"
+  },
+  {
+    "name": "Technische Universität Clausthal",
+    "aliases": "tu-clausthal.de"
+  },
+  {
+    "name": "Brandenburgische Technische Universität Cottbus",
+    "aliases": "tu-cottbus.de"
+  },
+  {
+    "name": "Technische Universität Darmstadt",
+    "aliases": "tu-darmstadt.de"
+  },
+  {
+    "name": "Technische Universität Dresden",
+    "aliases": "tu-dresden.de"
+  },
+  {
+    "name": "Technische Universität Bergakademie Freiberg",
+    "aliases": "tu-freiberg.de"
+  },
+  {
+    "name": "Technische Universität Hamburg",
+    "aliases": "tuhh.de"
+  },
+  {
+    "name": "Technische Universität Ilmenau",
+    "aliases": "tu-ilmenau.de"
+  },
+  {
+    "name": "Technische Universität München",
+    "aliases": "tum.de tum.edu mytum.de"
+  },
+  {
+    "name": "Universität Augsburg",
+    "aliases": "uni-augsburg.de"
+  },
+  {
+    "name": "Otto-Friedrich Universität Bamberg",
+    "aliases": "uni-bamberg.de"
+  },
+  {
+    "name": "Universität Bayreuth",
+    "aliases": "uni-bayreuth.de"
+  },
+  {
+    "name": "Universität Bielefeld",
+    "aliases": "uni-bielefeld.de"
+  },
+  {
+    "name": "Rheinische Friedrich-Wilhelms Universität Bonn",
+    "aliases": "uni-bonn.de"
+  },
+  {
+    "name": "Universität Bremen",
+    "aliases": "uni-bremen.de"
+  },
+  {
+    "name": "Universität der Bundeswehr Hamburg",
+    "aliases": "unibw-hamburg.de"
+  },
+  {
+    "name": "Universität der Bundeswehr München",
+    "aliases": "unibw-muenchen.de"
+  },
+  {
+    "name": "Technische Universität Dortmund",
+    "aliases": "tu-dortmund.de udo.edu"
+  },
+  {
+    "name": "Heinrich-Heine Universität Düsseldorf",
+    "aliases": "uni-duesseldorf.de hhu.de"
+  },
+  {
+    "name": "Universität Duisburg-Essen",
+    "aliases": "uni-duisburg-essen.de"
+  },
+  {
+    "name": "Universität Erfurt",
+    "aliases": "uni-erfurt.de"
+  },
+  {
+    "name": "Friedrich-Alexander Universität Erlangen-Nürnberg",
+    "aliases": "fau.de uni-erlangen.de"
+  },
+  {
+    "name": "Universität Flensburg",
+    "aliases": "uni-flensburg.de"
+  },
+  {
+    "name": "Johann Wolfgang Goethe Universität Frankfurt am Main",
+    "aliases": "uni-frankfurt.de"
+  },
+  {
+    "name": "Albert-Ludwigs-Universität Freiburg",
+    "aliases": "uni-freiburg.de"
+  },
+  {
+    "name": "Justus Liebig Universität Gießen",
+    "aliases": "uni-giessen.de"
+  },
+  {
+    "name": "Georg-August Universität Göttingen",
+    "aliases": "uni-goettingen.de"
+  },
+  {
+    "name": "Ernst-Moritz-Arndt Universität Greifswald",
+    "aliases": "uni-greifswald.de"
+  },
+  {
+    "name": "Martin-Luther Universität Halle-Wittenberg",
+    "aliases": "uni-halle.de"
+  },
+  {
+    "name": "Universität Hamburg",
+    "aliases": "uni-hamburg.de"
+  },
+  {
+    "name": "Universität Hannover",
+    "aliases": "uni-hannover.de"
+  },
+  {
+    "name": "Ruprecht-Karls-Universität Heidelberg",
+    "aliases": "uni-heidelberg.de"
+  },
+  {
+    "name": "Universität Hildesheim",
+    "aliases": "uni-hildesheim.de"
+  },
+  {
+    "name": "Universität Hohenheim",
+    "aliases": "uni-hohenheim.de"
+  },
+  {
+    "name": "Friedrich-Schiller Universität Jena",
+    "aliases": "uni-jena.de"
+  },
+  {
+    "name": "Karlsruher Institut für Technologie",
+    "aliases": "kit.edu"
+  },
+  {
+    "name": "Universität Kassel",
+    "aliases": "uni-kassel.de"
+  },
+  {
+    "name": "Christian-Albrechts-Universität Kiel",
+    "aliases": "uni-kiel.de"
+  },
+  {
+    "name": "Universität Kaiserslautern",
+    "aliases": "uni-kl.de"
+  },
+  {
+    "name": "Universität Koblenz-Landau",
+    "aliases": "uni-koblenz-landau.de"
+  },
+  {
+    "name": "Universität Köln",
+    "aliases": "uni-koeln.de"
+  },
+  {
+    "name": "Universität Konstanz",
+    "aliases": "uni-konstanz.de"
+  },
+  {
+    "name": "Universität Leipzig",
+    "aliases": "uni-leipzig.de"
+  },
+  {
+    "name": "Universität Lüneburg",
+    "aliases": "uni-lueneburg.de"
+  },
+  {
+    "name": "Otto-von-Guericke Universität Magdeburg",
+    "aliases": "uni-magdeburg.de"
+  },
+  {
+    "name": "Johannes-Gutenberg Universität Mainz",
+    "aliases": "uni-mainz.de"
+  },
+  {
+    "name": "Universität Mannheim",
+    "aliases": "uni-mannheim.de"
+  },
+  {
+    "name": "Phillips-Universität Marburg",
+    "aliases": "uni-marburg.de"
+  },
+  {
+    "name": "Ludwig-Maximilians-Universität München",
+    "aliases": "lmu.de uni-muenchen.de"
+  },
+  {
+    "name": "Westfälische Wilhelms-Universität Münster",
+    "aliases": "uni-muenster.de wwu.de"
+  },
+  {
+    "name": "Carl von Ossietzky Universität Oldenburg",
+    "aliases": "uol.de uni-oldenburg.de"
+  },
+  {
+    "name": "Universität Osnabrück",
+    "aliases": "uni-osnabrueck.de"
+  },
+  {
+    "name": "Universität Paderborn",
+    "aliases": "uni-paderborn.de"
+  },
+  {
+    "name": "Universität Passau",
+    "aliases": "uni-passau.de"
+  },
+  {
+    "name": "Universität Potsdam",
+    "aliases": "uni-potsdam.de"
+  },
+  {
+    "name": "Universität Regensburg",
+    "aliases": "uni-regensburg.de"
+  },
+  {
+    "name": "Universität Rostock",
+    "aliases": "uni-rostock.de"
+  },
+  {
+    "name": "Universität des Saarlandes",
+    "aliases": "uni-saarland.de"
+  },
+  {
+    "name": "Universität Siegen",
+    "aliases": "uni-siegen.de"
+  },
+  {
+    "name": "Universität Stuttgart",
+    "aliases": "uni-stuttgart.de"
+  },
+  {
+    "name": "Universität Trier",
+    "aliases": "uni-trier.de"
+  },
+  {
+    "name": "Eberhard-Karls-Universität Tübingen",
+    "aliases": "uni-tuebingen.de"
+  },
+  {
+    "name": "Universität Ulm",
+    "aliases": "uni-ulm.de"
+  },
+  {
+    "name": "Hochschule Vechta",
+    "aliases": "uni-vechta.de"
+  },
+  {
+    "name": "Bauhaus Universität Weimar",
+    "aliases": "uni-weimar.de"
+  },
+  {
+    "name": "Private Universität Witten/Herdecke",
+    "aliases": "uni-wh.de"
+  },
+  {
+    "name": "Bayerische Julius-Maximilians-Universität Würzburg",
+    "aliases": "uni-wuerzburg.de"
+  },
+  {
+    "name": "Bergische Universität Gesamthochschule Wuppertal",
+    "aliases": "uni-wuppertal.de"
+  },
+  {
+    "name": "WHU – Otto Beisheim School of Management",
+    "aliases": "whu-koblenz.de whu.edu "
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg",
+    "aliases": "dhbw.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Heidenheim",
+    "aliases": "heidenheim.dhbw.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Center for Advanced Studies (CAS)",
+    "aliases": "cas.dhbw.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Lörrach",
+    "aliases": "dhbw-loerrach.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Mosbach",
+    "aliases": "dhbw-mosbach.de mosbach.dhbw.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Ravensburg",
+    "aliases": "ravensburg.dhbw.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Stuttgart",
+    "aliases": "dhbw-stuttgart.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Villingen-Schwenningen",
+    "aliases": "dhbw-vs.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Heilbronn",
+    "aliases": "heilbronn.dhbw.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Karlsruhe",
+    "aliases": "dhbw-karlsruhe.de karlsruhe.dhbw.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Wuerttemberg Mannheim",
+    "aliases": "dhbw-mannheim.de mannheim.dhbw.de"
+  },
+  {
+    "name": "Hochschule Hannover",
+    "aliases": "hs-hannover.de stud.hs-hannover.de"
+  },
+  {
+    "name": "Staatliche Studienakademie Bautzen",
+    "aliases": "ba-bautzen.de"
+  },
+  {
+    "name": "Technische Hochschule Mittelhessen",
+    "aliases": "thm.de"
+  },
+  {
+    "name": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
+    "aliases": "hwg-lu.de"
+  },
+  {
+    "name": "Leuphana Universität Lüneburg",
+    "aliases": "leuphana.de"
+  },
+  {
+    "name": "Ostbayerische Technische Hochschule Amberg-Weiden",
+    "aliases": "oth-aw.de"
+  },
+  {
+    "name": "Musikhochschule Lübeck",
+    "aliases": "mh-luebeck.de"
+  },
+  {
+    "name": "Hochschule für Musik und Theater München",
+    "aliases": "musikhochschule-muenchen.de hmtm.de"
+  },
+  {
+    "name": "Universität der Künste Berlin",
+    "aliases": "udk-berlin.de"
+  },
+  {
+    "name": "Hochschule für Musik und Tanz Köln",
+    "aliases": "hfmt-koeln.de"
+  },
+  {
+    "name": "Hochschule für Musik Carl Maria von Weber",
+    "aliases": "hfmdd.de"
+  },
+  {
+    "name": "Hochschule für Musik und Darstellende Kunst Stuttgart",
+    "aliases": "hmdk-stuttgart.de"
+  },
+  {
+    "name": "Hochschule für Künste Bremen",
+    "aliases": "hfk-bremen.de hfk2020.de"
+  },
+  {
+    "name": "Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig",
+    "aliases": "hmt-leipzig.de"
+  },
+  {
+    "name": "Hochschule für Musik, Theater und Medien Hannover",
+    "aliases": "hmtm-hannover.de"
+  },
+  {
+    "name": "Hochschule für Musik Detmold",
+    "aliases": "hfm-detmold.de"
+  },
+  {
+    "name": "Deutsche Universität für Verwaltungswissenschaften Speyer",
+    "aliases": "uni-speyer.de"
+  },
+  {
+    "name": "Europa-Universität Viadrina",
+    "aliases": "europa-uni.de"
+  },
+  {
+    "name": "Frankfurt School of Finance & Management",
+    "aliases": "fs.de fs-students.de "
+  },
+  {
+    "name": "Hochschule für Fernsehen und Film München",
+    "aliases": "hff-muenchen.de"
+  },
+  {
+    "name": "IST-Hochschule fur Management",
+    "aliases": "ist-hochschule.de"
+  },
+  {
+    "name": "EBS Universität",
+    "aliases": "ebs.edu"
+  },
+  {
+    "name": "Hochschule RheinMain",
+    "aliases": "hs-rm.de"
+  },
+  {
+    "name": "Rosenheim University of Applied Sciences",
+    "aliases": "th-rosenheim.de Rosenheim, Burghausen, Ruhpolding, Traunstein, Mühldorf"
+  },
+  {
+    "name": "Karl-Schiller-Berufskolleg (KSBK)",
+    "aliases": "ksbk-do.de"
+  },
+  {
+    "name": "Westphalian University of Applied Sciences",
+    "aliases": "w-hs.de Gelsenkirchen, Bocholt, Recklinghausen"
+  },
+  {
+    "name": "Technische Hochschule Ulm",
+    "aliases": "thu.de"
+  },
+  {
+    "name": "Brandenburg University of Technology Cottbus - Senftenberg",
+    "aliases": "b-tu.de"
+  },
+  {
+    "name": "RWTH Aachen University",
+    "aliases": ""
+  },
+  {
+    "name": "Augsburg University",
+    "aliases": ""
+  },
+  {
+    "name": "University of Bamberg",
+    "aliases": ""
+  },
+  {
+    "name": "University of Bayreuth",
+    "aliases": ""
+  },
+  {
+    "name": "Bard College Berlin",
+    "aliases": ""
+  },
+  {
+    "name": "Berlin University of the Arts",
+    "aliases": ""
+  },
+  {
+    "name": "Charité",
+    "aliases": ""
+  },
+  {
+    "name": "ESCP Business School",
+    "aliases": ""
+  },
+  {
+    "name": "European School of Management and Technology",
+    "aliases": ""
+  },
+  {
+    "name": "Free University of Berlin",
+    "aliases": ""
+  },
+  {
+    "name": "German International University",
+    "aliases": ""
+  },
+  {
+    "name": "Hertie School",
+    "aliases": ""
+  },
+  {
+    "name": "Humboldt University of Berlin",
+    "aliases": ""
+  },
+  {
+    "name": "International Psychoanalytic University Berlin",
+    "aliases": ""
+  },
+  {
+    "name": "Berlin University of Psychology",
+    "aliases": ""
+  },
+  {
+    "name": "TU Berlin",
+    "aliases": ""
+  },
+  {
+    "name": "Bielefeld University",
+    "aliases": ""
+  },
+  {
+    "name": "Ruhr University Bochum",
+    "aliases": ""
+  },
+  {
+    "name": "University of Bonn",
+    "aliases": ""
+  },
+  {
+    "name": "TU Braunschweig",
+    "aliases": ""
+  },
+  {
+    "name": "Constructor University",
+    "aliases": ""
+  },
+  {
+    "name": "University of Bremen",
+    "aliases": ""
+  },
+  {
+    "name": "TU Chemnitz",
+    "aliases": ""
+  },
+  {
+    "name": "TU Clausthal",
+    "aliases": ""
+  },
+  {
+    "name": "TU Brandenburg",
+    "aliases": ""
+  },
+  {
+    "name": "TU Darmstadt",
+    "aliases": ""
+  },
+  {
+    "name": "TU Dortmund",
+    "aliases": ""
+  },
+  {
+    "name": "Dresden International University",
+    "aliases": ""
+  },
+  {
+    "name": "TU Dresden",
+    "aliases": ""
+  },
+  {
+    "name": "Herinrich Heine University Düsseldorf",
+    "aliases": ""
+  },
+  {
+    "name": "Catholic University of Eichstätt-Ingolstadt",
+    "aliases": ""
+  },
+  {
+    "name": "University of Erfurt",
+    "aliases": ""
+  },
+  {
+    "name": "University of Erlangen-Nürnberg",
+    "aliases": ""
+  },
+  {
+    "name": "University of Duisburg-Essen",
+    "aliases": ""
+  },
+  {
+    "name": "University of Flensburg",
+    "aliases": ""
+  },
+  {
+    "name": "Goethe University Frankfurt",
+    "aliases": ""
+  },
+  {
+    "name": "Sankt Georgen Graduate School of Philosophy and Theology",
+    "aliases": ""
+  },
+  {
+    "name": "European University Viadrina",
+    "aliases": ""
+  },
+  {
+    "name": "Freiberg University of Mining and Technology",
+    "aliases": ""
+  },
+  {
+    "name": "University of Freiburg",
+    "aliases": ""
+  },
+  {
+    "name": "Freiburg University of Education",
+    "aliases": ""
+  },
+  {
+    "name": "Theological University of Friedensau",
+    "aliases": ""
+  },
+  {
+    "name": "Zeppelin University",
+    "aliases": ""
+  },
+  {
+    "name": "University of Theology Fulda",
+    "aliases": ""
+  },
+  {
+    "name": "University of Giessen",
+    "aliases": ""
+  },
+  {
+    "name": "University of Göttingen",
+    "aliases": ""
+  },
+  {
+    "name": "University of Greifswald",
+    "aliases": ""
+  },
+  {
+    "name": "University of Hagen",
+    "aliases": ""
+  },
+  {
+    "name": "Martin-Luther-University Halle-Wittenberg",
+    "aliases": ""
+  },
+  {
+    "name": "Bucerius Law School",
+    "aliases": ""
+  },
+  {
+    "name": "HafenCity University Hamburg",
+    "aliases": ""
+  },
+  {
+    "name": "Helmut Schmidt University",
+    "aliases": ""
+  },
+  {
+    "name": "Kühne Logistics University",
+    "aliases": ""
+  },
+  {
+    "name": "TU Hamburg",
+    "aliases": ""
+  },
+  {
+    "name": "University of Hamburg",
+    "aliases": ""
+  },
+  {
+    "name": "Leibniz University Hannover",
+    "aliases": ""
+  },
+  {
+    "name": "Hannover Medical School",
+    "aliases": ""
+  },
+  {
+    "name": "University of Veterinary Medicine Hannover",
+    "aliases": ""
+  },
+  {
+    "name": "Center for Jewish Studies Heidelberg",
+    "aliases": ""
+  },
+  {
+    "name": "University of Heidelberg",
+    "aliases": ""
+  },
+  {
+    "name": "University of Hildesheim",
+    "aliases": ""
+  },
+  {
+    "name": "TU Ilmenau",
+    "aliases": ""
+  },
+  {
+    "name": "University of Jena",
+    "aliases": ""
+  },
+  {
+    "name": "RPTU University Kaiserslautern-Landau",
+    "aliases": ""
+  },
+  {
+    "name": "Karlsruhe Institute of Technology",
+    "aliases": ""
+  },
+  {
+    "name": "Karlsruhe University of Education",
+    "aliases": ""
+  },
+  {
+    "name": "University of Kassel",
+    "aliases": ""
+  },
+  {
+    "name": "Kiel University",
+    "aliases": ""
+  },
+  {
+    "name": "University of Koblenz",
+    "aliases": ""
+  },
+  {
+    "name": "German Sport University Cologne",
+    "aliases": ""
+  },
+  {
+    "name": "Cologne University of Catholic Theology",
+    "aliases": ""
+  },
+  {
+    "name": "University of Cologne",
+    "aliases": ""
+  },
+  {
+    "name": "University of Konstanz",
+    "aliases": ""
+  },
+  {
+    "name": "Medical University of Lausitz",
+    "aliases": ""
+  },
+  {
+    "name": "HHL Leipzig Graduate School of Management",
+    "aliases": ""
+  },
+  {
+    "name": "Leipzig University",
+    "aliases": ""
+  },
+  {
+    "name": "University of Lübeck",
+    "aliases": ""
+  },
+  {
+    "name": "Ludwigsburg University of Education",
+    "aliases": ""
+  },
+  {
+    "name": "Leuphana University of Lüneburg",
+    "aliases": ""
+  },
+  {
+    "name": "Otto von Guericke University of Magdeburg",
+    "aliases": ""
+  },
+  {
+    "name": "University of Mainz",
+    "aliases": ""
+  },
+  {
+    "name": "University of Mannheim",
+    "aliases": ""
+  },
+  {
+    "name": "Marburg University",
+    "aliases": ""
+  },
+  {
+    "name": "Munich School of Philosophy",
+    "aliases": ""
+  },
+  {
+    "name": "LMU Munich",
+    "aliases": ""
+  },
+  {
+    "name": "TU Munich",
+    "aliases": ""
+  },
+  {
+    "name": "Münster University of Philosophy and Theology",
+    "aliases": ""
+  },
+  {
+    "name": "University of Münster",
+    "aliases": ""
+  },
+  {
+    "name": "University of the Bundeswehr Munich",
+    "aliases": ""
+  },
+  {
+    "name": "Augustana Divinity School",
+    "aliases": ""
+  },
+  {
+    "name": "Brandenburg Medical School Theodor Fontane",
+    "aliases": ""
+  },
+  {
+    "name": "University of Technology Nuremberg",
+    "aliases": ""
+  },
+  {
+    "name": "Oberusel Theological University",
+    "aliases": ""
+  },
+  {
+    "name": "EBS University for Business and Law",
+    "aliases": ""
+  },
+  {
+    "name": "University of Oldenburg",
+    "aliases": ""
+  },
+  {
+    "name": "University of Osnabrück",
+    "aliases": ""
+  },
+  {
+    "name": "Paderborn Faculty of Theology",
+    "aliases": ""
+  },
+  {
+    "name": "University of Paderborn",
+    "aliases": ""
+  },
+  {
+    "name": "University of Passau",
+    "aliases": ""
+  },
+  {
+    "name": "University of Potsdam",
+    "aliases": ""
+  },
+  {
+    "name": "University of Regensburg",
+    "aliases": ""
+  },
+  {
+    "name": "University of Rostock",
+    "aliases": ""
+  },
+  {
+    "name": "Saarland University",
+    "aliases": ""
+  },
+  {
+    "name": "University of Education Schwäbisch Gmünd",
+    "aliases": ""
+  },
+  {
+    "name": "University of Siegen",
+    "aliases": ""
+  },
+  {
+    "name": "German University of Administrative Sciences Speyer",
+    "aliases": ""
+  },
+  {
+    "name": "Stuttgart Free University",
+    "aliases": ""
+  },
+  {
+    "name": "University of Stuttgart",
+    "aliases": ""
+  },
+  {
+    "name": "University of Hohenheim",
+    "aliases": ""
+  },
+  {
+    "name": "Trier Faculty of Theology",
+    "aliases": ""
+  },
+  {
+    "name": "University of Trier",
+    "aliases": ""
+  },
+  {
+    "name": "University of Tübingen",
+    "aliases": ""
+  },
+  {
+    "name": "University of Ulm",
+    "aliases": ""
+  },
+  {
+    "name": "Vinzenz Pallotti University",
+    "aliases": ""
+  },
+  {
+    "name": "University of Vechta",
+    "aliases": ""
+  },
+  {
+    "name": "Bauhaus-University Weimar",
+    "aliases": ""
+  },
+  {
+    "name": "Weingarten University of Education",
+    "aliases": ""
+  },
+  {
+    "name": "Charlotte Fresenius University",
+    "aliases": ""
+  },
+  {
+    "name": "Witten/Herdecke University",
+    "aliases": ""
+  },
+  {
+    "name": "University of Wuppertal",
+    "aliases": ""
+  },
+  {
+    "name": "Theological University Wuppertal",
+    "aliases": ""
+  },
+  {
+    "name": "University of Würzburg",
+    "aliases": ""
+  },
+  {
+    "name": "BSP Business and Law School",
+    "aliases": "Berlin Steglitz-Zehlendorf, Hamburg Mitte"
+  },
+  {
+    "name": "CBS International Business School",
+    "aliases": "Cologne, Brühl, Neuss, Mainz"
+  },
+  {
+    "name": "DHGS University for Health and Sport (Deutsche Hochschule für Gesundheit und Sport)",
+    "aliases": "Berlin, Ismaning, Unna, Frankfurt, Mannheim, Stuttgart, Hamburg, Cologne, Leipzig"
+  },
+  {
+    "name": "FHM Online University (Fachhochschule des Mittelstandes)",
+    "aliases": "Bamberg, Berlin, Hanover, Rostock, Schwerin, Bielefeld, Cologne, Frechen"
+  },
+  {
+    "name": "FOM University of Applied Sciences",
+    "aliases": "Essen, Berlin, Munich"
+  },
+  {
+    "name": "Fresenius University of Applied Sciences",
+    "aliases": "Idstein,Heidelberg, Berlin, Hamburg, Frankfurt, Wiesbaden, Cologne, Düsseldorf, Munich"
+  },
+  {
+    "name": "Macromedia University of Applied Sciences",
+    "aliases": "Potsdam, Berlin, Frankfurt, Hamburg, Cologne, Leipzig, Munich, Stuttgart, Freiburg"
+  },
+  {
+    "name": "HSD University of Applied Sciences (Hochschule Döpfer)",
+    "aliases": "Cologne, Potsdam, Regensburg"
+  },
+  {
+    "name": "IB University of Applied Health and Social Sciences (IB Hochschule für Gesundheit und Soziales)",
+    "aliases": "Berlin, Hamburg, Cologne, Munich, Stuttgart"
+  },
+  {
+    "name": "International School of Management",
+    "aliases": "Dortmund, Berlin, Cologne, Frankfurt, Hamburg, Stuttgart, Munich"
+  },
+  {
+    "name": "IU International University of Applied Sciences",
+    "aliases": "Erfurt, Bad Honnef, Dortmund, Düsseldorf, Essen, Cologne, Münster, Berlin, Bremen, Frankfurt, Freiburg, Mannheim, Stuttgart, Hamburg, Hanover, Leipzig, Dresden, Lübeck, Mainz, Munich, Augsburg, Nuremberg"
+  },
+  {
+    "name": "Media University of Applied Sciences",
+    "aliases": "Berlin, Frankfurt, Cologne"
+  },
+  {
+    "name": "Mediadesign University of Applied Sciences",
+    "aliases": "Berlin, Düsseldorf, Munich"
+  },
+  {
+    "name": "University of Europe for Applied Sciences",
+    "aliases": "Potsdam, Berlin, Hamburg, Iserlohn"
+  },
+  {
+    "name": "Victoria International University",
+    "aliases": "Berlin, Baden-Baden"
+  },
+  {
+    "name": "Accadis University of Applied Sciences",
+    "aliases": "Bad Homburg"
+  },
+  {
+    "name": "AKAD University",
+    "aliases": "Stuttgart"
+  },
+  {
+    "name": "Akkon University of Applied Sciences for Human Sciences",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Alice Salomon University of Applied Sciences",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Allensbach University of Applied Sciences",
+    "aliases": "Konstanz"
+  },
+  {
+    "name": "Apollon University of Health Economics",
+    "aliases": "Bremen"
+  },
+  {
+    "name": "bbw University of Applied Sciences",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Berlin International University of Applied Sciences",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Berlin University of Applied Sciences and Technology",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Cooperative University of Applied Sciences Hamburg (Berufliche Hochschule Hamburg)",
+    "aliases": "Hamburg"
+  },
+  {
+    "name": "Brand University of Applied Sciences Hamburg",
+    "aliases": "Hamburg"
+  },
+  {
+    "name": "CVJM University",
+    "aliases": "Kassel"
+  },
+  {
+    "name": "Cooperative University of Applied Sciences Schleswig Holstein (Duale Hochschule Schleswig-Holstein)",
+    "aliases": "Kiel, Lübeck, Flensburg"
+  },
+  {
+    "name": "Digital Business University",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "DIPLOMA University of Applied Sciences",
+    "aliases": "Bad Sooden-Allendorf"
+  },
+  {
+    "name": "Cooperative University of Applied Sciences Baden-Württemberg (Duale Hochschule Baden-Württemberg)",
+    "aliases": "Heidenheim, Heilbronn, Karlsruhe, Lörrach, Mannheim, Mosbach, Bad Mergentheim, Ravensburg, Friedrichshafen, Stuttgart, Villingen-Schwenningen"
+  },
+  {
+    "name": "Gera-Eisenach University of Cooperative Education (Duale Hochschule Gera-Eisenach)",
+    "aliases": "Gera, Eisenach"
+  },
+  {
+    "name": "EBZ Business School",
+    "aliases": "Bochum"
+  },
+  {
+    "name": "Ernst Abbe University of Applied Sciences Jena",
+    "aliases": "Jena"
+  },
+  {
+    "name": "Protestant University for Social & Welfare Work (Evangelische Hochschule für Soziale Arbeit & Diakonie)",
+    "aliases": "Hamburg"
+  },
+  {
+    "name": "Protestant University for Applied Sciences Freiburg",
+    "aliases": "Freiburg"
+  },
+  {
+    "name": "Lutheran University of Applied Sciences Nuremberg",
+    "aliases": "Nuremberg"
+  },
+  {
+    "name": "Protestant University of Applied Sciences Bochum (Evangelische Hochschule Bochum)",
+    "aliases": "Bochum"
+  },
+  {
+    "name": "Protestant University of Applied Sciences Berlin (Evangelische Hochschule Berlin)",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Protestant University of Applied Sciences Darmstadt (Evangelische Hochschule Darmstadt)",
+    "aliases": "Darmstadt"
+  },
+  {
+    "name": "Protestant University of Applied Sciences Dresden (Evangelische Hochschule Dresden)",
+    "aliases": "Dresden"
+  },
+  {
+    "name": "Protestant University of Applied Sciences Ludwigsburg (Evangelische Hochschule Ludwigsburg)",
+    "aliases": "Ludwigsburg"
+  },
+  {
+    "name": "FHD University of Applied Sciences (Fachhochschule Dresden)",
+    "aliases": "Dresden"
+  },
+  {
+    "name": "FHDW University of Applied Sciences (Fachhochschule für die Wirtschaft Hannover)",
+    "aliases": "Hanover"
+  },
+  {
+    "name": "University of Applied Sciences for Sports and Management Potsdam (Fachhochschule für Sport und Management Potsdam)",
+    "aliases": "Potsdam"
+  },
+  {
+    "name": "FH Aachen",
+    "aliases": "Aachen"
+  },
+  {
+    "name": "Diakonie University of Applied Sciences (FH der Diakonie Bielefeld-Bethel)",
+    "aliases": "Bielefeld"
+  },
+  {
+    "name": "Paderborn University of Applied Sciences in Business Administration (FH der Wirtschaft Paderborn)",
+    "aliases": "Paderborn, Bergisch Gladbach, Bielefeld, Mettmann, Marburg"
+  },
+  {
+    "name": "Dortmund University of Applied Sciences and Arts",
+    "aliases": "Dortmund"
+  },
+  {
+    "name": "University of Applied Sciences Erfurt",
+    "aliases": "Erfurt"
+  },
+  {
+    "name": "Hermannsburg Mission Seminary",
+    "aliases": "Südheide"
+  },
+  {
+    "name": "Kiel University of Applied Sciences",
+    "aliases": "Kiel"
+  },
+  {
+    "name": "FH Münster",
+    "aliases": "Münster"
+  },
+  {
+    "name": "University of Applied Sciences and Arts in Ottersberg (Hochschule für Künste im Sozialen Ottersberg)",
+    "aliases": "Ottersberg"
+  },
+  {
+    "name": "FH Potsdam",
+    "aliases": "Potsdam"
+  },
+  {
+    "name": "Stuttgart Media University",
+    "aliases": "Stuttgart"
+  },
+  {
+    "name": "South Westphalia University of Applied Sciences",
+    "aliases": "Iserlohn, Hagen, Lüdenscheid, Meschede, Soest"
+  },
+  {
+    "name": "FH Wedel",
+    "aliases": "Wedel"
+  },
+  {
+    "name": "West Coast University of Applied Sciences",
+    "aliases": "Heide"
+  },
+  {
+    "name": "Fliedner University of Applied Sciences Düsseldorf",
+    "aliases": "Düsseldorf"
+  },
+  {
+    "name": "Frankfurt University of Applied Sciences",
+    "aliases": "Frankfurt"
+  },
+  {
+    "name": "GISMA Business School",
+    "aliases": "Potsdam"
+  },
+  {
+    "name": "German University for Applied Sciences (Deutsche Hochschule für angewandte Wissenschaften)",
+    "aliases": "Potsdam"
+  },
+  {
+    "name": "Albstadt-Sigmaringen University",
+    "aliases": "Albstadt, Sigmaringen"
+  },
+  {
+    "name": "Anhalt University of Applied Sciences",
+    "aliases": "Köthen, Bernburg, Dessau-Roßlau"
+  },
+  {
+    "name": "University of Applied Sciences Biberach",
+    "aliases": "Biberach an der Riß"
+  },
+  {
+    "name": "Hochschule Bonn-Rhein-Sieg University of Applied Sciences",
+    "aliases": "Sankt Augustin, Rheinbach, Hennef, Bonn"
+  },
+  {
+    "name": "City University of Applied Sciences",
+    "aliases": "Bremen"
+  },
+  {
+    "name": "Bremerhaven University of Applied Sciences",
+    "aliases": "Bremerhaven"
+  },
+  {
+    "name": "University of Applied Sciences of the German Social Accident Insurance (Hochschule der Deutschen Gesetzlichen Unfallversicherung)",
+    "aliases": "Bad Hersfeld, Hennef"
+  },
+  {
+    "name": "Düsseldorf University of Applied Sciences",
+    "aliases": "Düsseldorf"
+  },
+  {
+    "name": "Esslingen University of Applied Sciences",
+    "aliases": "Esslingen"
+  },
+  {
+    "name": "Hamburg University of Applied Sciences",
+    "aliases": "Hamburg"
+  },
+  {
+    "name": "Weihenstephan-Triesdorf University of Applied Science",
+    "aliases": "Freising, Weidenbach, Straubing, Lindau"
+  },
+  {
+    "name": "HFM University of Applied Sciences for Finance & Management (Hochschule für Finanzwirtschaft & Management Bonn)",
+    "aliases": "Bonn"
+  },
+  {
+    "name": "Rottenburg University of Applied Forest Sciences",
+    "aliases": "Rottenburg am Neckar"
+  },
+  {
+    "name": "Cusanus University for Social Transformation",
+    "aliases": "Koblenz"
+  },
+  {
+    "name": "HfG Schwäbisch Gmünd",
+    "aliases": "Schwäbisch Gmünd"
+  },
+  {
+    "name": "HTW Berlin",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Saarland University of Applied Sciences",
+    "aliases": "Saarbrücken"
+  },
+  {
+    "name": "German University of Prevention and Health Management (Deutsche Hochschule für Prävention und Gesundheitsmanagement)",
+    "aliases": "Saarbrücken"
+  },
+  {
+    "name": "HTW Dresden",
+    "aliases": "Dresden"
+  },
+  {
+    "name": "Reutlingen University",
+    "aliases": "Reutlingen"
+  },
+  {
+    "name": "Leipzig University of Applied Sciences",
+    "aliases": "Leipzig"
+  },
+  {
+    "name": "Private University of Applied Sciences for Business and Technology (Private Hochschule für Wirtschaft und Technik Vechta)",
+    "aliases": "Oldenburg"
+  },
+  {
+    "name": "FH Furtwangen",
+    "aliases": "Furtwangen"
+  },
+  {
+    "name": "Hamm-Lippstadt University of Applied Sciences",
+    "aliases": "Hamm, Lippstadt"
+  },
+  {
+    "name": "Harz University of Applied Sciences",
+    "aliases": "Wernigerode, Halberstadt"
+  },
+  {
+    "name": "Heilbronn University of Applied Sciences",
+    "aliases": "Heilbronn, Künzelsau, Schwäbisch Hall"
+  },
+  {
+    "name": "Karlsruhe University of Applied Sciences",
+    "aliases": "Karlsruhe"
+  },
+  {
+    "name": "Konstanz University of Applied Sciences",
+    "aliases": "Konstanz"
+  },
+  {
+    "name": "Magdeburg-Stendal University of Applied Sciences",
+    "aliases": "Magdeburg, Stendal"
+  },
+  {
+    "name": "Mannheim University of Applied Sciences",
+    "aliases": "Mannheim"
+  },
+  {
+    "name": "Mittweida University of Applied Sciences",
+    "aliases": "Mittweida"
+  },
+  {
+    "name": "Niederrhein University of Applied Sciences",
+    "aliases": "Krefeld, Mönchengladbach"
+  },
+  {
+    "name": "Nürtingen-Geislingen University of Applied Science",
+    "aliases": "Nürtingen, Geislingen"
+  },
+  {
+    "name": "University of Applied Sciences Offenburg",
+    "aliases": "Offenburg, Gengenbach"
+  },
+  {
+    "name": "Pforzheim University of Applied Sciences",
+    "aliases": "Pforzheim"
+  },
+  {
+    "name": "University of Applied Sciences Ravensburg-Weingarten",
+    "aliases": "Weingarten"
+  },
+  {
+    "name": "Rhine-Waal University of Applied Sciences",
+    "aliases": "Kleve, Kamp-Lintfort"
+  },
+  {
+    "name": "Ruhr West University of Applied Sciences",
+    "aliases": "Mühlheim, Bottrop"
+  },
+  {
+    "name": "Zittau/Görlitz University of Applied Sciences",
+    "aliases": "Zittau, Görlitz"
+  },
+  {
+    "name": "Darmstadt University of Applied Sciences",
+    "aliases": "Darmstadt"
+  },
+  {
+    "name": "HDBW University of Applied Sciences (HDBW Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften)",
+    "aliases": "Munich"
+  },
+  {
+    "name": "HFH University of Applied Sciences (Hamburger Fern-Hochschule)",
+    "aliases": "Hamburg"
+  },
+  {
+    "name": "Aalen University of Applied Sciences",
+    "aliases": "Aalen"
+  },
+  {
+    "name": "Bielefeld University of Applied Sciences",
+    "aliases": "Bielefeld"
+  },
+  {
+    "name": "Bochum University of Applied Sciences",
+    "aliases": "Bochum Bochum"
+  },
+  {
+    "name": "Ostfalia University of Applied Sciences",
+    "aliases": "Salzgitter, Wolfenbüttel, Wolfsburg, Suderburg"
+  },
+  {
+    "name": "Nordakademie University of Applied Sciences",
+    "aliases": "Elmshorn"
+  },
+  {
+    "name": "Mannheim University of Applied Management Studies (Hochschule der Wirtschaft für Management)",
+    "aliases": "Mannheim"
+  },
+  {
+    "name": "Emden/Leer University of Applied Sciences",
+    "aliases": "Emden, Leer"
+  },
+  {
+    "name": "Flensburg University of Applied Sciences",
+    "aliases": "Flensburg"
+  },
+  {
+    "name": "Fulda University of Applied Sciences",
+    "aliases": "Fulda"
+  },
+  {
+    "name": "HSAP Berlin (Hochschule für soziale Arbeit und Pädagogik)",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Ansbach University of Applied Sciences",
+    "aliases": "Ansbach"
+  },
+  {
+    "name": "Coburg University of Applied Sciences",
+    "aliases": "Coburg"
+  },
+  {
+    "name": "University of Applied Labour Studies of the Federal Employment Agency (Hochschule der Bundesagentur für Arbeit)",
+    "aliases": "Mannheim, Schwerin"
+  },
+  {
+    "name": "Hof University of Applied Sciences",
+    "aliases": "Hof"
+  },
+  {
+    "name": "Kempten University of Applied Sciences",
+    "aliases": "Kempten"
+  },
+  {
+    "name": "University of Applied Sciences Landshut",
+    "aliases": "Landshut"
+  },
+  {
+    "name": "Munich University of Applied Sciences",
+    "aliases": "Munich"
+  },
+  {
+    "name": "Neu-Ulm University of Applied Sciences",
+    "aliases": "Neu-Ulm"
+  },
+  {
+    "name": "University of Applied Management",
+    "aliases": "Ismaning"
+  },
+  {
+    "name": "Eberswalde University of Applied Sciences for Health Professions (Hochschule für Gesundheitsfachberufe Eberswalde)",
+    "aliases": "Eberswalde"
+  },
+  {
+    "name": "University of Communication and Design (Hochschule für Kommunikation und Gestaltung)",
+    "aliases": "Stuttgart, Ulm"
+  },
+  {
+    "name": "Eberswalde University for Sustainable Development",
+    "aliases": "Eberswalde"
+  },
+  {
+    "name": "Stuttgart Technical University of Applied Sciences",
+    "aliases": "Stuttgart"
+  },
+  {
+    "name": "Ludwigshafen University of Applied Sciences",
+    "aliases": "Ludwigshafen"
+  },
+  {
+    "name": "Geisenheim University",
+    "aliases": "Geisenheim"
+  },
+  {
+    "name": "Hanover University of Applied Sciences and Arts",
+    "aliases": "Hanover"
+  },
+  {
+    "name": "Hildesheim/Holzminden/Göttingen University of Applied Sciences and Arts",
+    "aliases": "Hildesheim, Holzminden, Göttingen"
+  },
+  {
+    "name": "Kaiserslautern University of Applied Sciences",
+    "aliases": "Kaiserslautern, Pirmasens, Zweibrücken"
+  },
+  {
+    "name": "Koblenz University of Applied Sciences",
+    "aliases": "Koblenz, Remagen, Höhr-Grenzhausen"
+  },
+  {
+    "name": "Mainz University of Applied Sciences",
+    "aliases": "Mainz"
+  },
+  {
+    "name": "Merseburg University of Applied Sciences",
+    "aliases": "Merseburg"
+  },
+  {
+    "name": "Neubrandenburg University of Applied Sciences",
+    "aliases": "Neubrandenburg"
+  },
+  {
+    "name": "Nordhausen University of Applied Sciences",
+    "aliases": "Nordhausen"
+  },
+  {
+    "name": "Osnabrück University of Applied Sciences",
+    "aliases": "Osnabrück"
+  },
+  {
+    "name": "RheinMain University of Applied Sciences",
+    "aliases": "Wiesbaden"
+  },
+  {
+    "name": "Schmalkalden University of Applied Sciences",
+    "aliases": "Schmalkalden"
+  },
+  {
+    "name": "Stralsund University of Applied Sciences",
+    "aliases": "Stralsund"
+  },
+  {
+    "name": "Trier University of Applied Sciences",
+    "aliases": "Trier, Hoppstädten-Weiersbach, Idar-Oberstein"
+  },
+  {
+    "name": "Weserbergland University of Applied Sciences",
+    "aliases": "Hamelin"
+  },
+  {
+    "name": "Jade University of Applied Sciences",
+    "aliases": "Wilhelmshaven, Oldenburg, Elsfleth"
+  },
+  {
+    "name": "Wismar University of Applied Sciences: Technology, Business and Design",
+    "aliases": "Wismar"
+  },
+  {
+    "name": "Worms University of Applied Sciences",
+    "aliases": "Worms"
+  },
+  {
+    "name": "hochschule 21",
+    "aliases": "Buxtehude"
+  },
+  {
+    "name": "HSBA Hamburg School of Business Administration",
+    "aliases": "Hamburg"
+  },
+  {
+    "name": "Humanistic University Berlin",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Berlin School of Economics and Law",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "International University of Applied Sciences Liebenzell",
+    "aliases": "Bad Liebenzell"
+  },
+  {
+    "name": "Munich University of Applied Languages",
+    "aliases": "Munich"
+  },
+  {
+    "name": "INU – Innovative University of Applied Sciences",
+    "aliases": "Cologne"
+  },
+  {
+    "name": "IST University of Management",
+    "aliases": "Düsseldorf"
+  },
+  {
+    "name": "Catholic University of Applied Sciences Freiburg",
+    "aliases": "Freiburg"
+  },
+  {
+    "name": "Catholic University of Applied Sciences North Rhine-Westphalia",
+    "aliases": "Aachen, Cologne, Münster, Paderborn"
+  },
+  {
+    "name": "Catholic University of Applied Sciences Berlin (Katholische Hochschule für Sozialwesen Berlin)",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Catholic University of Applied Sciences Mainz",
+    "aliases": "Mainz"
+  },
+  {
+    "name": "Catholic University of Applied Sciences Munich (Katholische Stiftungshochschule München)",
+    "aliases": "Munich, Benediktbeuern"
+  },
+  {
+    "name": "Kolping University of Applied Sciences for Health and Social Affairs",
+    "aliases": "Cologne"
+  },
+  {
+    "name": "Leibniz University of Applied Sciences",
+    "aliases": "Hanover"
+  },
+  {
+    "name": "MSB Medical School Berlin",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Merz Akademie",
+    "aliases": "Stuttgart"
+  },
+  {
+    "name": "MSH Medical School Hamburg",
+    "aliases": "Hamburg"
+  },
+  {
+    "name": "Munich Business School",
+    "aliases": "Munich"
+  },
+  {
+    "name": "Northern Business School",
+    "aliases": "Hamburg"
+  },
+  {
+    "name": "Amberg-Weiden University of Applied Sciences",
+    "aliases": "Amberg, Weiden"
+  },
+  {
+    "name": "Regensburg University of Applied Sciences",
+    "aliases": "Regensburg"
+  },
+  {
+    "name": "PFH Private University of Applied Sciences",
+    "aliases": "Göttingen, Stade"
+  },
+  {
+    "name": "Doctoral College for Applied Research of North Rhine-Westphalia (Promotionskolleg NRW)",
+    "aliases": "Bochum"
+  },
+  {
+    "name": "Provadis School of International Management and Technology",
+    "aliases": "Frankfurt"
+  },
+  {
+    "name": "Quadriga University of Applied Sciences",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "University of Applied Sciences Cologne",
+    "aliases": "Cologne"
+  },
+  {
+    "name": "Steinbeis University",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "Bingen Technical University of Applied Sciences",
+    "aliases": "Bingen"
+  },
+  {
+    "name": "Brandenburg University of Applied Sciences",
+    "aliases": "Brandenburg an der Havel"
+  },
+  {
+    "name": "Deggendorf Institute of Technology",
+    "aliases": "Deggendorf"
+  },
+  {
+    "name": "Ingolstadt University of Applied Sciences",
+    "aliases": "Ingolstadt"
+  },
+  {
+    "name": "Cologne University of Applied Sciences",
+    "aliases": "Cologne, Gummersbach, Leverkusen"
+  },
+  {
+    "name": "Technical University of Applied Sciences Lübeck",
+    "aliases": "Lübeck"
+  },
+  {
+    "name": "University of Applied Sciences Mittelhessen",
+    "aliases": "Gießen, Friedberg, Wetzlar"
+  },
+  {
+    "name": "Nuremberg Institute of Technology Georg Simon Ohm",
+    "aliases": "Nuremberg"
+  },
+  {
+    "name": "Ulm University of Applied Sciences",
+    "aliases": "Ulm"
+  },
+  {
+    "name": "Technical University of Applied Sciences Wildau",
+    "aliases": "Wildau"
+  },
+  {
+    "name": "Technical University of Applied Sciences Würzburg-Schweinfurt",
+    "aliases": "Würzburg, Schweinfurt"
+  },
+  {
+    "name": "Technical University of Applied Sciences Aschaffenburg",
+    "aliases": "Aschaffenburg"
+  },
+  {
+    "name": "Technical University of Applied Sciences Georg Agricola",
+    "aliases": "Bochum"
+  },
+  {
+    "name": "TH OWL University of Applied Sciences and Arts",
+    "aliases": "Lemgo, Detmold, Höxter, Herford, Minden"
+  },
+  {
+    "name": "Theological Seminary in Elstal",
+    "aliases": "Wustermark"
+  },
+  {
+    "name": "Theological Seminary in Reutlingen",
+    "aliases": "Reutlingen"
+  },
+  {
+    "name": "Tomorrow University of Applied Sciences",
+    "aliases": "Frankfurt"
+  },
+  {
+    "name": "Touro College Berlin",
+    "aliases": "Berlin"
+  },
+  {
+    "name": "University of Labour Frankfurt",
+    "aliases": "Frankfurt"
+  },
+  {
+    "name": "West Saxon University of Applied Sciences Zwickau",
+    "aliases": "Zwickau"
+  },
+  {
+    "name": "Wilhelm Büchner University of Applied Sciences",
+    "aliases": "Darmstadt"
+  },
+  {
+    "name": "XU Exponential University of Applied Sciences",
+    "aliases": "Potsdam"
+  }
+]

@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+import ts from 'typescript';
+import assert from 'node:assert/strict';
+const source=fs.readFileSync('lib/backend-proxy.ts','utf8');
+const compiled=ts.transpileModule(source,{compilerOptions:{target:ts.ScriptTarget.ES2022,module:ts.ModuleKind.ESNext}}).outputText;
+const {forward}=await import('data:text/javascript;base64,'+Buffer.from(compiled).toString('base64'));
+let calls=0;
+globalThis.fetch=async(url,options)=>{calls++;assert.equal(url,'https://admitbridge.touhidrahat111.chatgpt.site/api/records');assert.equal(options.headers.get('origin'),'https://admitbridge.touhidrahat111.chatgpt.site');assert.equal(options.headers.get('cookie'),null);const data=JSON.parse(options.body);assert.equal(data.credits,144);assert.equal(data.year,2027);assert.equal(data.semester,'Summer');return Response.json({id:'saved',summary:data},{status:201});};
+const request=(origin='https://admitbridge.example')=>new Request('https://admitbridge.example/api/records',{method:'POST',headers:{origin,'content-type':'application/json',cookie:'unrelated=secret'},body:JSON.stringify({credits:144,year:2027,semester:'Summer'})});
+let r=await forward(request(),['records']);assert.equal(r.status,201);assert.equal((await r.json()).summary.credits,144);
+r=await forward(request('https://other.example'),['records']);assert.equal(r.status,403);
+r=await forward(request(),['../admin']);assert.equal(r.status,404);
+r=await forward(new Request('https://admitbridge.example/api/records',{method:'POST',body:new FormData()}),['records']);assert.equal(r.status,415);assert.equal(calls,1);
+globalThis.fetch=async()=>{throw Error('network error');};r=await forward(request(),['records']);assert.equal(r.status,503);
+console.log('PASS: exact values forwarded, origin checked, routes restricted, unrelated cookies excluded, uploads rejected, backend failure handled.');
